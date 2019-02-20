@@ -293,7 +293,7 @@ jQuery(window).ready(function() {
                 height:300, // Change for dimensions
                 css: {
                     backgroundColor:"#ffffff",
-                  	color: "#000000",
+                    color: "#000000",
                     border: "thin solid black",
                     'font-size': '80%',
                     padding: '10px 10px 0 10px',
