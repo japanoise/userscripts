@@ -1,6 +1,7 @@
 # userscripts
 
 - Floaty comment box + corru's tweaks, original by ravenel [here][1] and [here.][2]
+- Not including, but here's [a useful script for ao3][3]
 
 ## copying
 
@@ -10,4 +11,4 @@ from the original authors if necessary. **No warranty, even implied warranty.**
 
 [1]: https://greasyfork.org/en/scripts/376417-ao3-review-last-chapter-shortcut-kudos-sortable-bookmarks
 [2]: https://ravenel.tumblr.com/post/156555172141/i-saw-this-post-by-astropixie-about-how-itd-be
-
+[3]: https://greasyfork.org/en/scripts/13274-ao3-crossover-savior
